@@ -1,4 +1,4 @@
-{
+to{
     "name": "rsshub",
     "version": "1.0.0",
     "description": "Make RSS Great Again!",
@@ -194,6 +194,6 @@
     },
     "packageManager": "pnpm@9.7.0",
     "engines": {
-        "node": ">=22"
+        "node": ">=20.x"
     }
 }
